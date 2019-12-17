@@ -2,7 +2,7 @@
 Data Science Nanodegree P1 - Write a data science blog 
 
 ## Introduction
-The purpose of this project was to pose three questions in relation to a data set, and then to apply the CRISP-DM process along with data analytics techniques to answer those questions. I chose to analyze the [Seattle AirBnB set](http://www.insideairbnb.com/get-the-data.html), principally that listed for the upcoming year. The overall results are presented in a blog post that can be found [here](https://review.udacity.com/#!/rubrics/513/view).
+The purpose of this project was to pose three questions in relation to a data set, and then to apply the CRISP-DM process along with data analytics techniques to answer those questions. I chose to analyze the [Seattle AirBnB set](http://www.insideairbnb.com/get-the-data.html), principally that listed for the upcoming year. The overall results are presented in a blog post that will be found [here](https://www.udacity.com) once it is published.
 
 The three questions I decided to tackle were:
 
